@@ -90,7 +90,7 @@ export function LoginForm() {
             </FormItem>
           )}
         />
-        <Button className="w-full" type="submit">
+        <Button className="w-full bg-red-900" type="submit">
           Login
         </Button>
       </form>
